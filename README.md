@@ -7,7 +7,7 @@
 
 >pkg install git -y
 
->git clone https://github.com/John-kener/Evil-Eye-Banner
+>git clone https://github.com/Shenstudio-max/ShenBanner 
 
 >cd ShenBanner
 
