@@ -22,7 +22,7 @@ figlet SHEN | lolcat -a -d 5
 figlet STUDIO | lolcat -a -d 5
 sleep 1
 clear    
-[H[2J[3Jclear
+
 figlet -f big Shen Banner  | lolcat
 cyan='\e[0;36m'
 lightgreen='\e[1;32m'
