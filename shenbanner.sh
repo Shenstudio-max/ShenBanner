@@ -1,12 +1,21 @@
 clear
 echo
-figlet Tool Creat By | lolcat -a -d 5
+   figlet Tool | lolcat -a -d 5
+figlet Creat By | lolcat -a -d 5
 figlet Asanga | lolcat -a -d 5
 sleep 1
 clear  
-pkg install python 
-pkg install php 
+pkg update 
+figlet install | lolcat -a -d 5
+clear  
+pkg upgrade 
+pkg install sl
+pkg install python2 
+figlet update | lolcat -a -d 5
+clear  
 pkg install git 
+pkg install php
+figlet Done | lolcat -a -d 5
 clear
 echo
 figlet SHEN | lolcat -a -d 5
