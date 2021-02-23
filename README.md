@@ -15,5 +15,5 @@
 
 >bash requirement.sh
 
->bash shenbanner .sh
+>bash shenbanner.sh
 
